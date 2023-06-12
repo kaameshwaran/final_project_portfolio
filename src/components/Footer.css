@@ -35,20 +35,8 @@
 }
 
 .footer-input {
-  padding: 10px 20px;
+  padding: 8px 20px;
   border-radius: 2px;
-  margin-right: 10px;
-  outline: none;
-  border: none;
-  font-size: 18px;
-  margin-bottom: 16px;
-  border: 1px solid #fff;
-}
-.footer-input-1 {
-  padding: 10px 20px;
-  width: 30vw;
-  border-radius: 2px;
-  margin-left:  10px;
   margin-right: 10px;
   outline: none;
   border: none;
@@ -58,7 +46,7 @@
 }
 .input-areas-1 {
   display: flex;
-  flex-direction: row ;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   text-align: center;

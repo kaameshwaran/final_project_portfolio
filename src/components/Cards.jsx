@@ -13,7 +13,7 @@ function Cards() {
               src='https://i.ytimg.com/vi/I0v9ZOY3_0k/maxresdefault.jpg'
               text='A Random Quote Generator with social media sharing feature'
               label='HTML/CSS/JS'
-              path='/contact'
+              path='https://random-quote-levi.netlify.app/'
             />
             <CardItem
               src='https://i.pinimg.com/736x/06/ba/75/06ba750b35226b0bef4df3279dfd4fa1--awesome-stuff-classic.jpg'
@@ -33,7 +33,7 @@ function Cards() {
               src='https://jschris.com/262a1fab0110d0d612ed69c9bb7c4e7e/project.gif'
               text='Interactive Quiz App'
               label='React.js'
-              path='/contact'
+              path='https://kaameshwaran.github.io/Quizer/'
             />
             <CardItem
               src='https://i.imgur.com/Mk3DTFN.jpg'

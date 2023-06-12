@@ -16,7 +16,7 @@ function Footer() {
         <div className='input-areas-1'>
           <form>
             <input
-              className='footer-input-1'
+              className='footer-input'
               name='name'
               type='name'
               placeholder='Name'
@@ -24,7 +24,7 @@ function Footer() {
           </form>
           <form>
             <input
-              className='footer-input-1'
+              className='footer-input'
               name='mobile number'
               type='text'
               placeholder='Mobile'
